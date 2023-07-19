@@ -9,7 +9,7 @@ export default function Footer() {
         </a>
       </div>
       <span style={{ marginLeft: '12px', color: '#000000' }}>
-      | © 2023 HighRadius Corporation. All Rights Reserved.
+      | © 2023 HighRadius Corporation. Made by Pratham.
       </span>
     </div>
   );
