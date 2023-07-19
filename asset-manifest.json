@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mr-Pratham/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/css/main.464f9450.css",
-    "main.js": "/Mr-Pratham/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/js/main.a82322f9.js",
-    "static/js/787.71776601.chunk.js": "/Mr-Pratham/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/js/787.71776601.chunk.js",
-    "index.html": "/Mr-Pratham/AI-ENABLED-FINTECH-B2B-CLOUD-APP/index.html",
-    "main.464f9450.css.map": "/Mr-Pratham/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/css/main.464f9450.css.map",
-    "main.a82322f9.js.map": "/Mr-Pratham/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/js/main.a82322f9.js.map",
-    "787.71776601.chunk.js.map": "/Mr-Pratham/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/js/787.71776601.chunk.js.map"
+    "main.css": "/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/css/main.464f9450.css",
+    "main.js": "/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/js/main.c8ec2b55.js",
+    "static/js/787.71776601.chunk.js": "/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/js/787.71776601.chunk.js",
+    "index.html": "/AI-ENABLED-FINTECH-B2B-CLOUD-APP/index.html",
+    "main.464f9450.css.map": "/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/css/main.464f9450.css.map",
+    "main.c8ec2b55.js.map": "/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/js/main.c8ec2b55.js.map",
+    "787.71776601.chunk.js.map": "/AI-ENABLED-FINTECH-B2B-CLOUD-APP/static/js/787.71776601.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.464f9450.css",
-    "static/js/main.a82322f9.js"
+    "static/js/main.c8ec2b55.js"
   ]
 }
